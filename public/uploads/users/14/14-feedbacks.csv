@@ -1,0 +1,10 @@
+"Voter File VANID",Address,City,State,Zip5,Zip4,Address,City,State,Zip5,Zip4,"Last Name","First Name",CD,SD,HD,Email,"Phone Number",Email sent?,Email status,Sms sent?,Sms status,qa1_answer,qa2_answer,qa3_answer,qa4_answer,qa5_answer,qa6_answer,qa7_answer,from_where
+8191727,"2215 Wildwood Dr ","Glen Carbon",IL,62034,1818,"2215 Wildwood Dr ","Glen Carbon",IL,62034,1818,redacted,Carrie,13,56,112,topdev333@gmail.com,1231231231,Sent,Success
+1552029,"317 Locust St ",Edwardsville,IL,62025,1018,"317 Locust St ",Edwardsville,IL,62025,1018,redacted,Philip,13,56,112,ninjasuper333@gmail.com,1231231233,Sent,Success,Failed,Error [ 20003 ] [HTTP 401] Unable to create record: Authenticate
+8209960,"4440 Thatcher Rd ",Alton,IL,62002,6928,"4440 Thatcher Rd ",Alton,IL,62002,6928,redacted,Jill,13,56,111,Clientfirstdev@yandex.com,1231231234,Sent,Success
+1562485,"1373 27th St ",Highland,IL,62249,2768,"1373 27th St ",Highland,IL,62249,2768,redacted,Kathleen,15,54,108,fortni077@gmail.com,1231231235,Sent,Success,Failed,Error [ 20003 ] [HTTP 401] Unable to create record: Authenticate
+9378623,"934 Wheatridge Dr ",Troy,IL,62294,3100,"934 Wheatridge Dr ",Troy,IL,62294,3100,redacted,Elizabeth,15,54,108,wowchallenge123@gmail.com,1231231236,Sent,Success
+3762451,"847 E Ferguson Ave ","Wood River",IL,62095,2149,"847 E Ferguson Ave ","Wood River",IL,62095,2149,redacted,Molly,12,56,111,dvlad8543@gmail.com,1231231237,Sent,Success
+9345258,"739 Arkansas Rd ",Highland,IL,62249,4337,"739 Arkansas Rd ",Highland,IL,62249,4337,redacted,Rachel,15,54,108,hello@hello.com,1231231238,Sent,Success
+1427705,"435 Brentwood Blvd ",Alton,IL,62002,4481,"435 Brentwood Blvd ",Alton,IL,62002,4481,redacted,Alejandro,12,56,111,hi@hi.com,1231231239,Sent,Success
+10471908,"1315 Main St Apt A ",Highland,IL,62249,1669,"1315 Main St Apt A ",Highland,IL,62249,1669,redacted,Aaron,15,54,108,here@here.com,1231231230,Sent,Success
